@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUIExample.MainPage"
+             xmlns:control="clr-namespace:Syncfusion.Maui.Calendar;assembly=Syncfusion.Maui.Calendar">
+
+    <control:SfCalendar  SelectionMode="Range" RangeSelectionDirection="None"
+                         SelectionShape="Rectangle" NavigationDirection="Horizontal" 
+                         AllowViewNavigation="False" 
+                        EnablePastDates="False" MinimumDate="2/27/2023" MaximumDate="3/8/2023">
+        <control:SfCalendar.HeaderView>
+            <control:CalendarHeaderView ShowNavigationArrows="False"
+                                        Background="PaleGreen">
+                <control:CalendarHeaderView.TextStyle>
+                    <control:CalendarTextStyle FontSize="18"></control:CalendarTextStyle>
+                </control:CalendarHeaderView.TextStyle>
+            </control:CalendarHeaderView>
+        </control:SfCalendar.HeaderView>
+        <control:SfCalendar.MonthView>
+            <control:CalendarMonthView FirstDayOfWeek="Tuesday" 
+                                       NumberOfVisibleWeeks="3"
+                                       ShowWeekNumber="True"
+                                       DisabledDatesBackground="#E2F9F3">
+            </control:CalendarMonthView>
+        </control:SfCalendar.MonthView>
+    </control:SfCalendar>
+
+</ContentPage>
