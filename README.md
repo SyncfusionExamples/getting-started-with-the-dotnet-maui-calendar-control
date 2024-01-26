@@ -78,8 +78,6 @@ Use month, year, decade, and century calendar views for selection and navigation
 
 [Online example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Calendar?utm_source=github&utm_medium=listing&utm_campaign=maui-calendar-github-samples)
 
-[Knowledge base](https://support.syncfusion.com/kb?utm_source=github&utm_medium=listing&utm_campaign=maui-calendar-github-samples)
-
 ## About Syncfusion .NET MAUI Controls
 
 Syncfusion's [.NET MAUI UI Controls](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=maui-calendar-github-samples) library is the only suite that you will ever need to build an application since it contains over 40 high-performance, lightweight, modular, and responsive UI Controls in a single package. In addition to Calendar, we provide popular .NET MAUI Controls such as [DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-calendar-github-samples), [Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-calendar-github-samples), [Scheduler](https://www.syncfusion.com/maui-controls/maui-scheduler?utm_source=github&utm_medium=listing&utm_campaign=maui-calendar-github-samples), [ListView](https://www.syncfusion.com/maui-controls/maui-listview?utm_source=github&utm_medium=listing&utm_campaign=maui-calendar-github-samples), and [Excel Library](https://www.syncfusion.com/document-processing/excel-framework/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-calendar-github-samples).
