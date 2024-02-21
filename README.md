@@ -17,7 +17,7 @@ The [.NET MAUI Calendar](https://www.syncfusion.com/maui-controls/maui-calendar?
 * [Microsoft Visual Studio 2022](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes) version 17.5.1 with (.NET MAUI version 6.0.552) with .NET 6.0 and .NET 7.0
 * [Visual Studio 2022 for Mac Preview](https://visualstudio.microsoft.com/vs/mac/) version 17.5 (.NET MAUI version 6.0.552) with .NET 6.0 and .NET 7.0
 
-Refer to the following link for more details: [System Requirements](https://help.syncfusion.com/maui/system-requirements)
+Refer to the following link for more details: [System Requirements](https://help.syncfusion.com/maui/system-requirements?utm_source=github&utm_medium=listing&utm_campaign=maui-calendar-github-samples)
 
 ## How to run the sample
 
@@ -37,7 +37,7 @@ Refer to the following link for more details: [System Requirements](https://help
 			MainPage = new MainPage();
 		}
 		
-	Refer to this [link](https://help.syncfusion.com/maui/licensing/overview) for more details.
+	Refer to this [link](https://help.syncfusion.com/maui/licensing/overview?utm_source=github&utm_medium=listing&utm_campaign=maui-calendar-github-samples) for more details.
 	
 3. Clean and build the application.
 
